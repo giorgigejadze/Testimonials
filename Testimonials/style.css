@@ -1,0 +1,244 @@
+body{
+    background-color: rgb(135, 138, 138);
+    display: inline-block;
+}
+.div1{
+    background-color: hsl(263, 55%, 52%);
+    display: inline-block;
+    border-radius: 10px;
+    width: 720px;
+    height: 380px;
+    position: relative;
+    top: -300px; left: 200px;
+}
+.daniel{
+    border: 3px solid hsl(263, 48%, 60%);
+    border-radius: 50%;
+    position: relative;
+    top: -60px; left: 50px;
+    width: 50px;
+}
+.name1{
+    position: relative;
+    top: -95px; left: -90px;
+    color: hsl(0, 0%, 100%);
+    font-size: 15px;
+    display: inline-block;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.verifi1{
+    display: inline-block;
+    position: relative;
+    top: -70px; left: -195px;
+    font-size: 13px;
+    color: hsl(0, 0%, 81%);
+    font-family: Arial, Helvetica, sans-serif;
+}
+.h{
+    color: hsl(0, 0%, 100%);
+    position: relative;
+    top: -83px; left: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 21px;
+    line-height: 1.5;
+}
+.was{
+    position: relative;
+    top: -75px; left: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    color: hsl(0, 0%, 81%);
+    line-height: 1.5;
+}
+.quotation{
+    position: relative;
+    top: 0px; left: 380px;
+    width: 150px;
+}
+.div2{
+    background-color: hsl(217, 19%, 35%);
+    display: inline-block;
+    position: relative;
+    top: -395px; left: 240px;
+    width: 350px;
+    height: 380px;
+    border-radius: 10px;
+}
+.jonathan{
+    border-radius: 50%;
+    width: 50px;
+    position: relative;
+    top: 30px; left: 50px;
+}
+.name2{
+    position: relative;
+    top: 0px; left: 65px;
+    color: hsl(0, 0%, 100%);
+    font-size: 15px;
+    display: inline-block;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.verifi2{
+    display: inline-block;
+    position: relative;
+    top: 20px; left: -62px;
+    font-size: 13px;
+    color: hsl(0, 0%, 81%);
+    font-family: Arial, Helvetica, sans-serif;
+}
+.the{
+    color: hsl(0, 0%, 100%);
+    position: relative;
+    top:15px; left: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 21px;
+    line-height: 1.5;
+}
+.I{
+    position: relative;
+    top: 25px; left: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    color: hsl(0, 0%, 81%);
+    line-height: 1.5;
+}
+
+.div3{
+    background-color:  hsl(0, 0%, 100%);
+    display: inline-block;
+    position: relative;
+    top: 15px; left: 285px;
+    width: 350px;
+    height: 790px;
+    border-radius: 10px;
+}
+.kira{
+    border-radius: 50%;
+    width: 50px;
+    position: relative;
+    top: 30px; left: 50px;
+}
+.name3{
+    position: relative;
+    top: 0px; left: 70px;
+    color: hsl(0, 0%, 0%);
+    font-size: 15px;
+    display: inline-block;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.verifi3 {
+    position: relative;
+    top: -45px; left: 125px;
+    font-size: 13px;
+    color: hsl(0, 0%, 81%);
+    font-family: Arial, Helvetica, sans-serif;
+}
+.such{
+    color: hsl(0, 3%, 15%);
+    position: relative;
+    top: -20px; left: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 21px;
+    line-height: 1.5;
+}
+.before{
+    position: relative;
+    top: -20px; left: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    color: hsl(0, 0%, 46%);
+    line-height: 1.5;
+}
+.div4{
+    background-color: hsl(0, 0%, 100%);
+    display: inline-block;
+    border-radius: 10px;
+    width: 330px;
+    height: 370px;
+    position: relative;
+    top: 50px; left: -1232px;
+}
+.jeanette{
+    border-radius: 50%;
+    position: relative;
+    top: 30px; left: 50px;
+    width: 50px;
+}
+.name4{
+    position: relative;
+    top: 0px; left: 70px;
+    color: hsl(0, 0%, 0%);
+    font-size: 15px;
+    display: inline-block;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.verifi4 {
+    position: relative;
+    top: -45px; left: 125px;
+    font-size: 13px;
+    color: hsl(0, 0%, 81%);
+    font-family: Arial, Helvetica, sans-serif;
+}
+.an{
+    color: hsl(0, 3%, 15%);
+    position: relative;
+    top: -40px; left: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 21px;
+    line-height: 1.5;
+}
+.thank{
+    position: relative;
+    top: -30px; left: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    color: hsl(0, 0%, 46%);
+    line-height: 1.5;
+}
+.div5{
+    position: relative;
+    top: -355px; left: 560px;
+    background-color: hsl(219, 29%, 14%);
+    width: 755px;
+    height: 370px;
+    display: inline-block;
+    border-radius: 10px;
+}
+.patrick{
+    border: 3px solid hsl(263, 48%, 60%);
+    border-radius: 50%;
+    position: relative;
+    top: 30px; left: 50px;
+    width: 50px;
+}
+.name5{
+    position: relative;
+    top: 0px; left: 70px;
+    color: hsl(0, 0%, 100%);
+    font-size: 15px;
+    display: inline-block;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.verifi5 {
+    position: relative;
+    top: -45px; left: 130px;
+    font-size: 13px;
+    color: hsl(0, 0%, 81%);
+    font-family: Arial, Helvetica, sans-serif;
+}
+.awesome{
+    color: hsl(0, 0%, 100%);
+    position: relative;
+    top: -40px; left: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 21px;
+    line-height: 1.5;
+}
+.staff{
+    position: relative;
+    top: -30px; left: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    color: hsl(0, 0%, 46%);
+    line-height: 1.5;
+}
